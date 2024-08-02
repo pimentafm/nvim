@@ -7,6 +7,8 @@ return {
   "AstroNvim/astrocommunity",
 
   -- import/override with your plugins folder
+  -- copilot
+  { import = "astrocommunity.completion.copilot-lua" },
   -- heirline
   { import = "astrocommunity.recipes.heirline-vscode-winbar" },
   -- codesnap
