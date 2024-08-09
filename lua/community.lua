@@ -18,7 +18,7 @@ return {
     build = "make",
     opts = {
       save_path = "~/Pictures/screenshots/codesnap/",
-      code_font_family = "JetBrainsMono Nerd Font",
+      code_font_family = "Fira Code Nerd Font Retina",
       bg_color = "#a8b0d5",
     },
   }
